@@ -1,6 +1,6 @@
 # project
 
-A new Flutter project.
+A new Flutter project which is ispried by Olx and zameen.com . A olx like platform which deals in properites.
 
 ## Getting Started
 
